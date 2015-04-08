@@ -1,5 +1,5 @@
 var chars = [' ','.','-',':',';','i','c','x','%','#'];
-
+// albertnez <3
 var canvas = document.getElementById('myCanvas');
 var text = document.getElementById('text');
 var inp = document.getElementById('slide'); inp.value = '1';
